@@ -15,3 +15,4 @@ int main() {
     int area=width*height;
     cout<<"면적은"<<area<<"\n";//endl도 사용가능
 }
+//주석처리
